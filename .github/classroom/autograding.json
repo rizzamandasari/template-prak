@@ -4,8 +4,8 @@
       "name": "Jurnal01a",
       "setup": "javac Jurnal01.java",
       "run": "java Jurnal01",
-      "input": "2\n1 2\n3 4",
-      "output": "3 4\n1 2",
+      "input": "4",
+      "output": "16",
       "comparison": "included",
       "timeout": 10,
       "points": 10
@@ -14,41 +14,40 @@
       "name": "Jurnal01b",
       "setup": "javac Jurnal01.java",
       "run": "java Jurnal01",
-      "input": "3\n1 2 3\n4 5 6\n7 8 9",
-      "output": "7 8 9\n4 5 6\n1 2 3",
+      "input": "6",
+      "output": "36",
       "comparison": "included",
       "timeout": 10,
       "points": 10
     },
     {
-      "name": "Jurnal02a",
+      "name": "Jurnal02",
       "setup": "javac Jurnal02.java",
       "run": "java Jurnal02",
-      "input": "3\n 1 0 0\n1 2 2\n0 0 1",
-      "output": "?",
+      "input": "Implementasi Algoritma\n6",
+      "output": "Aku suka kuliah Implementasi Algoritma.\nKuliah 6 jam per minggu rasanya kurang.\nTambahin dong jadi 12 jam per minggu :)",
       "comparison": "included",
       "timeout": 10,
-      "points": 10
-    },
-	{
-      "name": "Jurnal02b",
-      "setup": "javac Jurnal02.java",
-      "run": "java Jurnal02",
-      "input": "3\n1 0 0\n1 2 2\n1 0 0",
-      "output": "O",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 10
+      "points": 20
     },
     {
-      "name": "Jurnal03",
+      "name": "Jurnal03a",
       "setup": "javac Jurnal03.java",
       "run": "java Jurnal03",
-      "input": "5",
-      "output": "1 16 15 14 13\n2 17 24 23 12\n3 18 25 22 11\n4 19 20 21 10\n5 6 7 8 9",
+      "input": "87 81 76",
+      "output": "80.5",
       "comparison": "included",
       "timeout": 10,
-      "points": 30
+      "points": 15
+    },{
+      "name": "Jurnal03b",
+      "setup": "javac Jurnal03.java",
+      "run": "java Jurnal03",
+      "input": "70 55 33",
+      "output": "49.95",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
     },
     {
       "name": "TP01a",
