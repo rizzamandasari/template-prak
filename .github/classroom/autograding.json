@@ -24,18 +24,28 @@
       "name": "Jurnal02",
       "setup": "javac Jurnal02.java",
       "run": "java Jurnal02",
-      "input": "Implementasi Algoritma\n6",
-      "output": "Aku suka kuliah Implementasi Algoritma.\nKuliah 6 jam per minggu rasanya kurang.\nTambahin dong jadi 12 jam per minggu :)",
+      "input": "15 8 7",
+      "output": "Kotak dapat masuk ke dalam Persegi Panjang? True ",
       "comparison": "included",
       "timeout": 10,
-      "points": 20
+      "points": 10
+    },
+{
+      "name": "Jurnal02",
+      "setup": "javac Jurnal02.java",
+      "run": "java Jurnal02",
+      "input": "22 8 12",
+      "output": "Kotak dapat masuk ke dalam Persegi Panjang? False ",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
     },
     {
       "name": "Jurnal03a",
       "setup": "javac Jurnal03.java",
       "run": "java Jurnal03",
       "input": "87 81 76",
-      "output": "80.5",
+      "output": "80.5\nLulus MK: True",
       "comparison": "included",
       "timeout": 10,
       "points": 15
@@ -44,7 +54,7 @@
       "setup": "javac Jurnal03.java",
       "run": "java Jurnal03",
       "input": "70 55 33",
-      "output": "49.95",
+      "output": "49.95\nLulus MK: False",
       "comparison": "included",
       "timeout": 10,
       "points": 15
@@ -53,8 +63,8 @@
       "name": "TP01a",
       "setup": "javac TP01.java",
       "run": "java TP01",
-      "input": "500000 10000 30",
-      "output": "800000",
+      "input": "66 48",
+      "output": "150.8 F, 118.4 F\n339.15 K, 321.15 K",
       "comparison": "included",
       "timeout": 10,
       "points": 5
@@ -63,8 +73,8 @@
       "name": "TP01b",
       "setup": "javac TP01.java",
       "run": "java TP01",
-      "input": "250000 25000 30",
-      "output": "1000000",
+      "input": "56 42",
+      "output": "132.8 F, 107.6 F\n329.15 K, 315.15 K",
       "comparison": "included",
       "timeout": 10,
       "points": 5
