@@ -25,7 +25,7 @@
       "setup": "javac Jurnal02.java",
       "run": "java Jurnal02",
       "input": "15 8 7",
-      "output": "Kotak dapat masuk ke dalam Persegi Panjang? true ",
+      "output": "Kotak dapat masuk ke dalam Persegi Panjang? true",
       "comparison": "included",
       "timeout": 10,
       "points": 10
@@ -35,7 +35,7 @@
       "setup": "javac Jurnal02.java",
       "run": "java Jurnal02",
       "input": "22 8 12",
-      "output": "Kotak dapat masuk ke dalam Persegi Panjang? false ",
+      "output": "Kotak dapat masuk ke dalam Persegi Panjang? false",
       "comparison": "included",
       "timeout": 10,
       "points": 10
