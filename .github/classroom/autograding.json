@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "Demo",
-      "setup": "javac Demo.java",
-      "run": "java Demo",
+      "name": "Jurnal1",
+      "setup": "javac Jurnal1.java",
+      "run": "java Jurnal1",
       "input": "",
       "output": "Hello World!!",
       "comparison": "included",
