@@ -2,8 +2,8 @@
   "tests": [
     {
       "name": "Jurnal1",
-      "setup": "javac Jurnal1.java",
-      "run": "java Jurnal1",
+      "setup": "javac Modul01/Jurnal01.java",
+      "run": "java Modul01/Jurnal01",
       "input": "",
       "output": "Hello World!!",
       "comparison": "included",
